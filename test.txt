@@ -1,6 +1,13 @@
 this is some content
+<<<<<<< HEAD
 ###################
 
 blablalba
 
 привет!
+=======
+###################
+>>>>>>> parent of c9cdf41... lol
+
+
+this is feature line
