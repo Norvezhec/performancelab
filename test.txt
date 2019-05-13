@@ -5,8 +5,7 @@ this is some content
 blablalba
 
 привет!
-=======
-###################
+
 >>>>>>> parent of c9cdf41... lol
 
 
